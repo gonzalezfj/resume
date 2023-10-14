@@ -1,0 +1,292 @@
+{
+  "sections": [
+    {
+      "title": "Personal Information",
+      "type": "personal_information",
+      "content": {
+        "fullname": "Facundo J Gonzalez",
+        "cv_link": "https://cv.gonzalezfj.com/",
+        "web_link": "https://gonzalezfj.com/",
+        "title": "Platform Engineering Lead @ taringa! | K8s, GCP."
+      }
+    },
+    {
+      "title": "Education",
+      "type": "education",
+      "content": [
+        {
+          "institution": "National University of San Juan (UNSJ - Universidad Nacional de San Juan)",
+          "state": "San Juan, Argentina",
+          "degree": "Degree in Computer Science",
+          "start_date": "2009",
+          "end_date": "2018",
+          "gpa": "8.85 out of 10"
+        }
+      ]
+    },
+    {
+      "title": "Experience",
+      "type": "experience",
+      "content": [
+        {
+          "company": "Taringa!",
+          "location": "Remote",
+          "positions": [
+            {
+              "position": "Platform Engineering Lead",
+              "start_date": "June 2023",
+              "end_date": "Present",
+              "summary": "As Taringa's Platform Engineering Lead, I designed and managed scalable cloud infrastructure, led the development of internal tools, collaborated across teams for application deployment, forged strategic partnerships, managed networked application environments, and established CI/CD pipelines for efficient software delivery.              ",
+              "highlights": [
+                "Designed and implemented scalable and reliable cloud architecture to enhance organizational infrastructure.",
+                "Led the development of internal tools dedicated to infrastructure management, monitoring, and scalability.",
+                "Collaborated extensively with mobile, backend, data, and product teams, contributing to the architectural deployment of algorithms, offering operational support for both new and existing applications, and effectively diagnosing production issues.",
+                "Actively sought out and developed new technological partnerships to benefit the company's strategy and business",
+                "Assumed responsibility for the design and implementation of continuous integration and deployment (CI/CD) pipelines to improve application development and release processes."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "IOV Labs",
+          "location": "Remote",
+          "positions": [
+            {
+              "position": "Technical Lead",
+              "start_date": "September 2022",
+              "end_date": "May 2023",
+              "summary": "In my role as a technical leader, I foster team collaboration, define and monitor project metrics, ensure scalable architecture, craft technical proposals, and maintain updated documentation for effective knowledge sharing.",
+              "highlights": [
+                "As a technical leader, my focus is on facilitating communication and collaboration among team members. I ensure everyone is aligned with project objectives and has a clear understanding of their roles and responsibilities. I work to identify and resolve any issues that may hinder project progress.",
+                "I defined and monitored relevant project metrics and use this information to guide decision-making. I also use these metrics to assess team progress and provide valuable and constructive feedback.",
+                "I work closely with the technical leadership team and development teams to ensure that the architecture is scalable, flexible, and compliant with business requirements and industry standards.",
+                "I write technical proposals and effectively communicate them to the development team.",
+                "I ensure that documentation is up-to-date and available to the entire team, ensuring that knowledge is shared and preserved."
+              ]
+            },
+
+            {
+              "position": "Sr Backend Developer",
+              "start_date": "April 2022",
+              "end_date": "August 2022",
+              "summary": "As a Senior Backend Developer, I led the implementation and optimization of a high-traffic API using NodeJS and a large amount data in a graph database. Furthermore, I played a fundamental role in designing and developing a cutting-edge Gamification System that incorporated NFT rewards and an on-ramp mechanism using MercadoPago.",
+              "highlights": [
+                "Implemented and optimized a high traffic API with microservices in NodeJS, Docker, SocketIO, RabbitMQ, and Redis",
+                "Managed and developed solutions in a graph database, and an event log in ElasticSearch with many TB of data",
+                "Kubernetes, Cloudflare, and GCP management",
+                "Designed and Developed a Gamification System with rewards in NFTs and MercadoPago integration backed with microservices in NestJS, RedLock, BullQueue and BigQuery"
+              ]
+            },
+
+            {
+              "position": "Ssr FullStack Developer",
+              "start_date": "October 2020",
+              "end_date": "March 2022",
+              "summary": "As a FullStack Developer I actively participate in the design and implementation of new solutions and manintenance of existing ones. This involved creating efficient image upload and serving solution, designing on-demand Quality Assurance (QA) environments, improving search capabilities, and implementing automatic service scaling for improved performance",
+              "highlights": [
+                "Developed a system for images to upload with TUS protocol and serving using imgproxy.",
+                "Designed and implemented ephemeral on demand QA environments using technologies such as Docker, Kubernetes, Kustomize, Jenkins, Bash, and Cloudflare Dynamic DNS.",
+                "Implemented Redis Search to enable image searching using Google Vision metadata.",
+                "Implemented automatic scaling of services in Kubernetes using HPA (Horizontal Pod Autoscaling). Managed observability with tools like NewRelic, Grafana, and Google Cloud Monitoring."
+              ]
+            },
+            {
+              "position": "Software Engineer Contractor (Web Performance)",
+              "start_date": "April 2020",
+              "end_date": "September 2022",
+              "summary": "Enhanced front-end performance using optimization techniques and tools, improved scalability through auto-scaling and caching, and accelerated server-side rendering. Led development with NextJS and AMP, established performance benchmarks, and streamlined CI/CD pipelines",
+              "highlights": [
+                "Front-end performance optimization techniques and tools such as Webpack Bundle Analyzer and Lighthouse",
+                "Improved scalability defining autoscaling and load balacing strategies as well as implementing caching techniques in the CDN and the application layer. Going from ",
+                "Improved the Server Side rendering loading times using techniques such as granular code splitting with Webpack and lazy loading with loadable components from 20se to 7sec",
+                "Lead a new development using NextJS as the main framework building views that loads directly from the edge using ISG (Incremental Static Generation) and SSR (Server Side Rendering) techniques",
+                "Established a baseline performance budget for the application and monitored it using Lighthouse CI and custom dashboard",
+                "Improved the CI/CD pipeline in Jenkins from 40min to 12min"
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Provincial Legislature of San Juan",
+          "location": "San Juan, Argentina",
+          "positions": [
+            {
+              "position": "Technical Lead",
+              "start_date": "2016",
+              "end_date": "2020",
+              "summary": "Managed projects, implemented CI/CD, and handled infrastructure configuration.",
+              "highlights": [
+                "Managed projects and monitored progress and established deadlines.",
+                "Implemented CI/CD using GitLab with Kubernetes linux and Windows Server runners.",
+                "Configured a new data center working side by side with the dell support team, Deployed a Kubernetes with Rancher over a vSphere cluster, Cold storage with Dell Data Domain, and Hot storage in Dell EMC."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Provincial Legislature of San Juan",
+          "location": "San Juan, Argentina",
+          "positions": [
+            {
+              "position": "Fullstack Developer",
+              "start_date": "2014",
+              "end_date": "2016",
+              "summary": "Developed various systems, including the Income Tax system and integrated systems for San Juan's Legal Digest.",
+              "highlights": [
+                "Developed the Income Tax system using Angular, SQL Server, and C# .NET Core.",
+                "Created an attendance control system with a React-based UI on Raspberry Pi and ZKTECO kiosk, backed by a NodeJS orchestrator and MySQL.",
+                "Built integrated systems for San Juan's Legal Digest, including a multi-tenant Angular consultation website with a NodeJS backend, Elasticsearch-based search engine with Redis caching, a Go-based backoffice, PosgreSQL, and NextJS. Developed an offline-first mobile app using Ionic and Sqlite FTS."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "TravelPaq",
+          "location": "San Juan, Argentina",
+          "positions": [
+            {
+              "position": "Freelance",
+              "start_date": "2017",
+              "end_date": "2019",
+              "summary": "Developed a multi-gateway payment SDK and a search API for tour packages.",
+              "highlights": [
+                "Developed a multi-gateway payment SDK in React, transpiled to portable JavaScript, and created a playground with checkout examples in React, Angular, and Vanilla JS.",
+                "Built a REST API for bank promotion by gateway/merchant, integrating MercadoPago, PayU, TodoPago JS SDKs.",
+                "Developed a search API for tour packages using Java 11, Maven, Hibernate, MySQL, and AWS S3."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "National University of San Juan",
+          "location": "San Juan, Argentina",
+          "positions": [
+            {
+              "position": "Fullstack Developer",
+              "start_date": "2015",
+              "end_date": "2016",
+              "summary": "Contributed to the development of the Integrated Information Security System (SIIS).",
+              "highlights": [
+                "Contributed to the development of the Integrated Information Security System (SIIS), a project aimed at controlling and communicating with all police stations in the province. Utilized AngularJS and CakePHP."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Courses and Seminars",
+      "type": "courses",
+      "content": [
+        {
+          "date": "2023",
+          "title": "Attendance at the course 'Microservices in NodeJS,' offered by Aforo255 Training Center."
+        },
+        {
+          "date": "2021",
+          "title": "Dynamic Instrumentation with eBPF, taught by Ing. Fernando Gleiser, High-Performance Computing Center (CCAD) - National University of Córdoba."
+        },
+        {
+          "date": "2021",
+          "title": "Certification course: 'K8s for Architects,' offered by Go Elevate."
+        },
+        {
+          "date": "2020",
+          "title": "Certification exam: 'Mercado Pago Certified Developer for Online Payments Checkout Pro,' Mercado Pago Partners Team."
+        },
+        {
+          "date": "2020",
+          "title": "Attendance at the course 'Abstractions in the Practice of Functional Programming,' taught by Dr. Mauro Jaskelioff, National University of Rosario, as part of the Summer School RIO 2020, Rio Cuarto, Córdoba, Argentina."
+        },
+        {
+          "date": "2020",
+          "title": "Attendance at the course 'Classical and Neural Approaches to Text Mining,' taught by Dr. Marcelo Luis Errecalde, National University of San Luis, as part of the Summer School RIO 2020, Rio Cuarto, Córdoba, Argentina."
+        },
+        {
+          "date": "2019",
+          "title": "Attendance at the Frontend Web Development conference 'WebConf,' Córdoba, Argentina."
+        },
+        {
+          "date": "2019",
+          "title": "Attendance at the III International Congress of Computer Science and Information Systems, National University of San Juan, Argentina."
+        },
+        {
+          "date": "2018",
+          "title": "Attendance at the Jornadas de Seguridad Informática e Investigación Digital y Forense, Taller de herramientas forenses, National University of San Juan, Argentina."
+        },
+        {
+          "date": "2018",
+          "title": "Attendance at the 3rd edition of the Forum Argentina Abierta, National University of Cuyo, Mendoza, Argentina."
+        },
+        {
+          "date": "2017",
+          "title": "Participant in the 'Hackathon de Unearthed Argentina' competition, Digital House, Buenos Aires, Argentina."
+        },
+        {
+          "date": "2016",
+          "title": "Attendance at the course 'Designing Interactive Systems from a User-Centered Approach,' Dr. Cesar Collazos, University of Cauca, Colombia."
+        },
+        {
+          "date": "2014",
+          "title": "Attendance at the congress and symposium 'CARLA 2014 - First HPCLATAM - CLCAR Joint Conference,' Federico Santa María Technical University, Valparaíso, Chile."
+        },
+        {
+          "date": "2014",
+          "title": "Attendance at the course 'Aceleración con GPUs: Arquitectura y programación CUDA,' taught by the Cuda Fellow Manuel Ujaldón, University of Málaga, as part of the Summer School RIO 2014, Rio Cuarto, Córdoba, Argentina."
+        },
+        {
+          "date": "2014",
+          "title": "Participant in the South American regional competition ACM-ICPC (The ACM International Collegiate Programming Contest, sponsored by IBM internationally), University of Buenos Aires, Federal Capital, Buenos Aires, Argentina."
+        },
+        {
+          "date": "2014",
+          "title": "Member of the winning team at the Argentine Programming Tournament, Chilecito Headquarters, National University of Chilecito, La Rioja, Argentina."
+        },
+        {
+          "date": "2014",
+          "title": "Participant in the Training Camp Fifth Edition of Argentina's programming school, University of Buenos Aires, Federal Capital, Buenos Aires, Argentina."
+        },
+        {
+          "date": "2013",
+          "title": "Attendance at the ECAR HPCLATAM 2013 school and presentation at the 'Latin American Symposium on High-Performance Computing,' Institute of Basic Sciences (ICB) at the National University of Cuyo, Mendoza, Argentina."
+        },
+        {
+          "date": "2012",
+          "title": "Attendance at the course 'Computer Center: Technologies and Implementations in UNIX-type Systems,' XVI International School of Informatics. Argentine Congress of Computer Science, National University of the South. Bahía Blanca, Buenos Aires, Argentina."
+        }
+      ]
+    },
+    {
+      "title": "Scientific Production",
+      "type": "scientific_production",
+      "content": [
+        {
+          "date": "2014",
+          "title": "Evaluation of communication costs in heterogeneous computing architectures applied to scientific computing. XVI Workshop of Researchers in Computer Science."
+        },
+        {
+          "date": "2013",
+          "title": "QoS Management in convergent service network environments. XV Workshop of Researchers in Computer Science."
+        },
+        {
+          "date": "2013",
+          "title": "Perspectives in processing large amounts of information using Cloud. Journal of Computer Science & Technology; vol. 13, no. 3."
+        },
+        {
+          "date": "2013",
+          "title": "Cloud Computing with open-source tools for evaluating hybrid deployment models. XVI Workshop of Researchers in Computer Science."
+        }
+      ]
+    },
+    {
+      "title": "Distinctions",
+      "type": "distinctions",
+      "content": [
+        {
+          "date": "2015",
+          "title": "Honored as a color guard member for achieving the fourth-highest GPA at the Facultad de Ciencias Exactas Físicas y Naturales de la Universidad Nacional de San Juan in the year 2015."
+        }
+      ]
+    }
+  ]
+}
